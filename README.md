@@ -16,4 +16,6 @@
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chaudhari-chinmay/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?style=for-the-badge&logo=ko-fi)](https://chinmay.corvaya.in)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
