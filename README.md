@@ -11,7 +11,7 @@
 I'm a **Data Analyst, UI/UX Designer, and Data Engineer** passionate about turning complex data into clear, actionable insights through intuitive design and reliable engineering.  I combine technical depth with user-centered design to build analytics solutions that matter.
 
 - 🔍 **Location**: India
-- 📧 **Email**:  [chinmaychaudhari312@gmail.com](mailto:chinmaychaudhari312@gmail. com)
+- 📧 **Email**:  [chinmaychaudhari312@gmail.com](mailto:chinmaychaudhari312@gmail.com)
 - 🔗 **LinkedIn**: [chaudhari-chinmay](https://www.linkedin.com/in/chaudhari-chinmay)
 - 🌐 **Portfolio**: [chinmay.corvaya.in](https://chinmay.corvaya.in)
 - ⭐ **GitHub**: [@Chinmay-3737](https://github.com/Chinmay-3737)
@@ -73,10 +73,49 @@ GitHub CI/CD █████████░░░░░░░░░ 88%  |  AWS 
 ![D3.js](https://img.shields.io/badge/D3.js-F06292?style=for-the-badge&logo=d3dotjs&logoColor=white)
 
 ### 🟢 Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4? style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B61FF?style=for-the-badge&logo=terraform&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### InteractivePortfolio
+<div style="background: #0f1a23; padding: 16px; border-radius: 8px; border-left: 4px solid #33d6f0; margin:  16px 0;">
+
+**Type:** Animated Portfolio Platform  
+**Status:** 🌟 Live & Interactive  
+**Stack:** React · Framer Motion · GSAP · TypeScript · Tailwind CSS  
+**Impact:** Award-Winning Design  
+
+A cutting-edge, fully interactive portfolio with smooth animations, micro-interactions, and immersive user experience. Built with React for component reusability and Framer Motion + GSAP for cinematic animations. 
+
+[🔗 View Repository](https://github.com/Chinmay-3737/InteractivePortfolio) | [🌐 Live Demo](https://chinmay.corvaya.in)
+
+</div>
+
+### CoffeeShop
+<div style="background: #0f1a23; padding: 16px; border-radius: 8px; border-left: 4px solid #f59e0b; margin: 16px 0;">
+
+**Type:** Full-Stack Web Application  
+**Status:** ☕ Brewing & Growing  
+**Stack:** React · Node.js · Express · MongoDB · Tailwind CSS  
+**Impact:** Real-World Business Solution  
+
+A modern coffee shop ordering and management platform with real-time order tracking, inventory management, and customer analytics dashboard.  Designed with user-friendly interfaces and seamless checkout experience.
+
+**Features:**
+- 📱 Responsive mobile-first design
+- 🛒 Cart & order management
+- 📊 Admin dashboard with sales analytics
+- ⭐ User reviews & ratings system
+- 💳 Payment integration ready
+
+[🔗 View Repository](https://github.com/Chinmay-3737/CoffeeShop) | [🌐 Live Demo](#)
 
 </div>
 
@@ -94,28 +133,6 @@ GitHub CI/CD █████████░░░░░░░░░ 88%  |  AWS 
 
 ---
 
-## 🚀 Featured Projects
-
-### CloudData-Pipelines
-> Production-grade data pipeline architecture using Airflow, dbt, and BigQuery
-- **Tech Stack**: Python, Airflow, dbt, BigQuery, GCS, Terraform
-- **Highlights**: Automated ETL, data quality checks, scalable cloud infrastructure
-- ⭐ [View Repository](https://github.com/Chinmay-3737/CloudData-Pipelines)
-
-### UX-Analytics-Toolkit
-> Design-first approach to analytics dashboards with interactive prototypes
-- **Tech Stack**: React, D3.js, Figma, TypeScript, Tailwind CSS
-- **Highlights**: User-tested interfaces, advanced visualizations, component library
-- ⭐ [View Repository](https://github.com/Chinmay-3737/UX-Analytics-Toolkit)
-
-### InteractiveDashboard-Suite
-> Next-gen data visualization platform with real-time collaboration
-- **Tech Stack**: React, D3.js, WebSocket, PostgreSQL, Docker
-- **Highlights**: Live dashboards, user research integration, accessibility-first
-- ⭐ [View Repository](https://github.com/Chinmay-3737)
-
----
-
 ## 📈 Current Focus
 
 - 🔍 Building scalable data pipelines with Airflow & Kubernetes
@@ -123,6 +140,7 @@ GitHub CI/CD █████████░░░░░░░░░ 88%  |  AWS 
 - 📊 Optimizing data models with dbt for faster insights
 - ☁️ Deploying ML-ready infrastructure on Google Cloud
 - 🤝 Contributing to open-source data & analytics tools
+- ☕ Expanding CoffeeShop platform with AI-driven recommendations
 
 ---
 
@@ -133,6 +151,7 @@ Currently diving deep into:
 - Real-time analytics architectures
 - Design systems for data products
 - Kubernetes & container orchestration
+- Full-stack web application development
 
 ---
 
@@ -141,7 +160,8 @@ Currently diving deep into:
 - 🚀 **Product-focused data roles** where analytics directly impacts users
 - 🤝 **Collaborations** on open-source analytics or data engineering projects
 - 📚 **Mentoring opportunities** to help others learn data design & engineering
-- 💼 **Freelance projects** involving dashboards, pipelines, or data architecture
+- 💼 **Freelance projects** involving dashboards, pipelines, or full-stack applications
+- ☕ **Startups or side projects** in fintech, e-commerce, or food-tech
 
 ---
 
