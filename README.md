@@ -1,8 +1,8 @@
 <div align="center">
 
-  # ✨ Crafting Neural Architectures
-  # 🌐 Building Quantum Applications
-  # ☁️ Orchestrating Cloud Symphonies
+  # ✨ Designing Intuitive Interfaces
+  # 📊 Decoding Data Patterns
+  # 🚀 Building Business Solutions
 
 </div>
 
@@ -12,15 +12,10 @@
   <tr>
     <td valign="top" width="50%">
       <h3>🎯 NEURAL PROFILE</h3>
-      <div align="left">
-        <pre>
-name: Your Name
-Role: ["UI/UX Designer", "Data Analyst"]
-Location: Your Location
-Mission: "Transforming ideas into reality"
-Status: "Actively coding the future"
-        </pre>
-      </div>
+      <div align="center">
+        <img src="PASTE_YOUR_CARBON_IMAGE_LINK_HERE" width="100%" alt="Neural Profile" />
+        
+        </div>
     </td>
     <td valign="top" width="50%">
       <h3>📊 QUANTUM METRICS</h3>
@@ -44,69 +39,31 @@ Status: "Actively coding the future"
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🧠 ARTIFICIAL INTELLIGENCE ARSENAL</h3>
+      <h3>🧠 DESIGN & DATA ARSENAL</h3>
       <div align="center">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
+        <br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <br/>
-        <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+        <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       </div>
       <br/>
-      <strong>🎯 Specializations:</strong> Computer Vision • NLP • Deep Learning
+      <strong>🎯 Specializations:</strong> UI/UX • Business Analysis • Dashboards
     </td>
     <td valign="top" width="50%">
       <h3>⚡ QUANTUM STATUS</h3>
-      <pre lang="javascript">
-const developer = {
-  brain: "☕ Coffee-Powered Neural Network",
-  focus: "💠 Building AI-First Solutions",
-  mode: "🚀 Innovation Overdrive",
-  availability: "🟢 Open for Collabs",
-  superpower: "🧠 Turning Data into Wisdom"
-};
-      </pre>
+      <div align="center">
+         <img src="PASTE_YOUR_CARBON_IMAGE_LINK_HERE" width="100%" alt="Quantum Status" />
+        
+        </div>
       <br/>
-      📍 <strong>Current Location:</strong> Multiverse Gateway <br/>
-      🧭 <strong>Coding Since:</strong> 2019 Earth Years <br/>
-      🎮 <strong>Fun Fact:</strong> Dreams in Python & TypeScript
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🌟 FRONTEND COSMOS</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-        <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🔮 BACKEND MULTIVERSE</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      </div>
+      📍 <strong>Current Location:</strong> India <br/>
+      🚗 <strong>Interests:</strong> Volvo Trucks & Porsche <br/>
+      🎮 <strong>Fun Fact:</strong> Designs in Dark Mode only
     </td>
   </tr>
 </table>
