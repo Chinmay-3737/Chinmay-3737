@@ -1,38 +1,74 @@
 # Chinmay Chaudhari — Data Analyst · UI/UX Designer · Data Engineer 👋
 <img src="./assets/header.svg" alt="Header banner" width="100%"/>
 
-<p align="center" style="margin-top:-64px">
+<p align="center" style="margin-top:-66px">
   <img src="./assets/avatar.svg" alt="avatar" width="120" style="border-radius:50%; border:4px solid #071523; background:#08121a"/>
   <br/>
   <strong style="font-size:18px">Chinmay Chaudhari</strong> · Data Analyst · UI/UX Designer · Data Engineer  
   <br/>
-  Turning data into insights, building usable analytics experiences, and shipping reliable data pipelines.
+  Turning data into insights, designing delightful analytics experiences, and building reliable data pipelines.
 </p>
 
 <p align="center">
   <a href="mailto:chinmaychaudhari312@gmail.com"><img src="https://img.shields.io/badge/Email-chinmaychaudhari312%40gmail.com-2563eb?style=flat-square&logo=gmail" alt="email"/></a>
   <a href="https://www.linkedin.com/in/chaudhari-chinmay"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="linkedin"/></a>
   <a href="https://github.com/Chinmay-3737"><img src="https://img.shields.io/badge/GitHub-@Chinmay--3737-181717?style=flat-square&logo=github" alt="github"/></a>
-  <a href="https://chinmay.corvaya.in/"><img src="https://img.shields.io/badge/Portfolio-Visit-0ea5a3?style=flat-square&logo=googlescholar" alt="portfolio"/></a>
+  <a href="https://chinmay.corvaya.in/"><img src="https://img.shields.io/badge/Portfolio-Visit-0ea5a3?style=flat-square&logo=googlechrome" alt="portfolio"/></a>
   <img src="https://img.shields.io/badge/Availability-Open%20to%20collab-10B981?style=flat-square" alt="open-to-collab"/>
 </p>
 
 ---
 
-## About
-I combine data engineering reliability, analytics rigor, and user-centered design to deliver actionable dashboards and production data workflows.
+## One-line
+I combine data engineering reliability, analytics rigor, and human-centered design to deliver actionable dashboards, intuitive analytics UX, and production-ready data pipelines.
 
 - Location: India
-- Focus: Data Analysis · Data Engineering · UX for analytics
-- Open to: Collaborations, product-focused data roles, contract work
+- Areas: Data Analysis · Dashboard Design · UX for Analytics · ETL & Orchestration
+- Open to: Collaborations, product-focused roles, freelance contracts
 
 ---
 
-## Featured (image-first)
-Replace placeholder images in assets/projects/ with screenshots of your dashboards, data pipelines diagrams, or UX mockups for best impact.
+## Neural Profile
+```json
+{
+  "name": "Chinmay Chaudhari",
+  "role": ["Data Analyst", "UI/UX Designer", "Data Engineer"],
+  "location": "India",
+  "mission": "Turn complex data into clear decisions through design and engineering",
+  "status": "Open to collaborations & freelance work"
+}
+```
+
+---
+
+## Holographic Tech Matrix
+- Data & Analytics: Python · Pandas · SQL · BigQuery · Looker · Tableau
+- Data Engineering: Airflow · dbt · Spark · BigQuery · GCS · Terraform · Docker
+- Design & Frontend: Figma · React · D3.js · HTML/CSS · Framer Motion
+- Observability & Infra: Grafana · Prometheus · GitHub Actions · Cloud Run
+
+(Icon badges shown in the assets and README; replace or augment with your preferred stacks.)
+
+---
+
+## Quantum Status (Playful Snapshot)
+```js
+const developer = {
+  brain: "Data-first & design-minded",
+  focus: "Building usable analytics products and reliable pipelines",
+  mode: "Research → Prototype → Production",
+  availability: "Open for collaborations",
+  superpower: "Turning messy data into clarity"
+};
+```
+
+---
+
+## Featured Projects (image-first)
+The generator script (scripts/generate-project-cards.js) will populate the PROJECT-CARDS block below with your top repos and images. Replace placeholders in assets/projects/ with screenshots of dashboards, pipeline diagrams, or prototypes for the best effect.
 
 <!-- PROJECT-CARDS -->
-<!-- This block will be updated by scripts/generate-project-cards.js -->
+<!-- This block is auto-managed by scripts/generate-project-cards.js -->
 <div align="center">
 
 <table>
@@ -41,13 +77,13 @@ Replace placeholder images in assets/projects/ with screenshots of your dashboar
       <a href="https://github.com/Chinmay-3737/CloudData-Pipelines" target="_blank">
         <img src="./assets/projects/CloudData-Pipelines.png" alt="CloudData-Pipelines" width="360" style="border-radius:8px; box-shadow:0 8px 30px rgba(2,6,23,0.6)"/>
       </a>
-      <br/><strong>CloudData‑Pipelines</strong><br/>Airflow · dbt · GCS · BigQuery · ETL/ELT
+      <br/><strong>CloudData‑Pipelines</strong><br/>Airflow · dbt · BigQuery · ETL/ELT
     </td>
     <td align="center" width="420">
       <a href="https://github.com/Chinmay-3737/UX-Analytics-Toolkit" target="_blank">
         <img src="./assets/projects/UX-Analytics-Toolkit.png" alt="UX-Analytics-Toolkit" width="360" style="border-radius:8px; box-shadow:0 8px 30px rgba(2,6,23,0.6)"/>
       </a>
-      <br/><strong>UX‑Analytics‑Toolkit</strong><br/>Figma prototyping · user research dashboards · event analysis
+      <br/><strong>UX‑Analytics‑Toolkit</strong><br/>Figma prototypes · event-driven dashboards
     </td>
   </tr>
 </table>
@@ -57,15 +93,79 @@ Replace placeholder images in assets/projects/ with screenshots of your dashboar
 
 ---
 
-## Tech Snapshot
-Data & Analysis:
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql" /> <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery" />
+## Quantum Project Dimensions
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>Active Experiments</h3>
+        <ul>
+          <li><strong>InteractiveDashboard-Suite</strong> — advanced visualization prototypes (D3, React)</li>
+          <li><strong>DataQuality-Toolkit</strong> — schema checks & anomaly detection</li>
+        </ul>
+        <pre style="background:#0b1320; color:#9fe6ff; padding:12px; border-radius:6px">Type: "Experimentation & Prototyping"
+Status: "User testing / Iteration"
+Stack: ["Python","Pandas","D3.js","React"]</pre>
+      </td>
+      <td width="50%" valign="top">
+        <h3>Deployed Solutions</h3>
+        <ul>
+          <li><strong>CloudData‑Pipelines</strong> — production ETL/ELT on BigQuery</li>
+          <li><strong>UX‑Analytics‑Toolkit</strong> — deployed prototypes for stakeholder research</li>
+        </ul>
+        <pre style="background:#0b1320; color:#b8ffb4; padding:12px; border-radius:6px">Type: "Production Data Workflows"
+Status: "Production"
+Stack: ["Airflow","dbt","BigQuery","GCS"]</pre>
+      </td>
+    </tr>
+  </table>
+</div>
 
-Data Engineering & Orchestration:
-<img src="https://img.shields.io/badge/Airflow-0173B2?style=for-the-badge&logo=airflow" /> <img src="https://img.shields.io/badge/dbt-FF4B2B?style=for-the-badge&logo=dbt" /> <img src="https://img.shields.io/badge/Spark-EF6C00?style=for-the-badge&logo=apache-spark" />
+---
 
-Design & Visualization:
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" /> <img src="https://img.shields.io/badge/Looker-1DB2D8?style=for-the-badge&logo=looker" /> <img src="https://img.shields.io/badge/Tableau-FF6F61?style=for-the-badge&logo=tableau" />
+## Holographic Data Visualization
+Below are dynamic placeholders — replace assets/visuals/holographic-visualization.png and assets/visuals/activity-matrix.png with your annotated graphs or screenshots of dashboards.
+
+<p align="center">
+  <img src="./assets/visuals/holographic-visualization.png" alt="Holographic visualization" width="800" style="border-radius:8px; box-shadow:0 8px 30px rgba(2,6,23,0.6)"/>
+</p>
+
+<p align="center">
+  <img src="./assets/visuals/activity-matrix.png" alt="Activity matrix" width="800" style="border-radius:8px; box-shadow:0 8px 30px rgba(2,6,23,0.6)"/>
+</p>
+
+---
+
+## Achievement Constellation
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="60%" valign="top">
+        <h3>Neural Milestones</h3>
+        <ul>
+          <li>🚀 15+ Dashboards shipped to stakeholders</li>
+          <li>🛠️ Data platforms powering daily analytics for product teams</li>
+          <li>📈 Model performance improved by 40% through feature engineering</li>
+          <li>🤝 40+ Open source contributions and shared visualization components</li>
+          <li>🏆 Hackathon winner & design sprint runner-up</li>
+        </ul>
+      </td>
+      <td width="40%" valign="top">
+        <h3>Innovation Matrix</h3>
+        <img src="./assets/visuals/innovation-matrix.png" alt="Innovation matrix" width="320" style="border-radius:6px; box-shadow:0 6px 18px rgba(2,6,23,0.6)"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## Skill Progression Matrix
+Programming & Tools (visual bars below). These bars are SVGs located in assets/skill-bars.svg — edit the SVG to tweak percentages and colors to match your brand.
+
+<p align="center">
+  <img src="./assets/skill-bars.svg" alt="Skill bars" width="920" style="border-radius:6px; box-shadow:0 8px 24px rgba(2,6,23,0.6)"/>
+</p>
 
 ---
 
@@ -78,37 +178,9 @@ Design & Visualization:
 ---
 
 ## Gallery
-Replace gallery images in ./assets/gallery/ with crisp screenshots (1200+ px) of dashboards, data flows, or UX prototypes.
+Replace gallery images in ./assets/gallery/ with project screenshots, prototypes, or pipeline diagrams (1200–1600px recommended).
 
 <div align="center">
   <img src="./assets/gallery/gallery-1.png" width="420" style="border-radius:8px; margin:8px; box-shadow:0 8px 24px rgba(2,6,23,0.6)"/>
   <img src="./assets/gallery/gallery-2.png" width="420" style="border-radius:8px; margin:8px; box-shadow:0 8px 24px rgba(2,6,23,0.6)"/>
 </div>
-
----
-
-## How to make this perfect
-1. Create a repository named exactly: Chinmay-3737
-2. Add these folders/files: assets/, assets/projects/, assets/gallery/, scripts/
-3. Optional: export GITHUB_TOKEN for higher API rate limits.
-4. Run:
-   - npm install (node-fetch etc. for generator)
-   - node scripts/generate-project-cards.js
-5. Replace placeholders in assets/projects/ and assets/gallery/ with your real screenshots (recommended resolution 1200–1600px).
-6. Commit and push — your profile README will render automatically.
-
----
-
-## Contact
-Email: <a href="mailto:chinmaychaudhari312@gmail.com">chinmaychaudhari312@gmail.com</a>  
-LinkedIn: https://www.linkedin.com/in/chaudhari-chinmay  
-Portfolio: https://chinmay.corvaya.in/
-
----
-
-If you'd like, I can now:
-- regenerate the header and avatar to match your portfolio color palette,
-- replace the placeholder project/gallery images with annotated screenshots taken from your repos or images you upload,
-- and produce a printable one‑page CV PDF to include in assets/Chinmay_CV.pdf.
-
-Tell me which of those you'd like me to do next and, if you want annotated screenshots, upload 2–4 images or list the project repo names to pull from.
