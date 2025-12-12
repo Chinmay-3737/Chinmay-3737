@@ -10,9 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hello@yourdomain.com"><img src="https://img.shields.io/badge/Email-hello@yourdomain.com-2563eb?style=flat-square&logo=gmail" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="linkedin"/></a>
+  <a href="mailto:chinmaychaudhari312@gmail.com"><img src="https://img.shields.io/badge/Email-chinmaychaudhari312%40gmail.com-2563eb?style=flat-square&logo=gmail" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/chaudhari-chinmay"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="linkedin"/></a>
   <a href="https://github.com/Chinmay-3737"><img src="https://img.shields.io/badge/GitHub-@Chinmay--3737-181717?style=flat-square&logo=github" alt="github"/></a>
+  <a href="https://chinmay.corvaya.in/"><img src="https://img.shields.io/badge/Portfolio-Visit-0ea5a3?style=flat-square&logo=googlescholar" alt="portfolio"/></a>
   <img src="https://img.shields.io/badge/Availability-Open%20to%20collab-10B981?style=flat-square" alt="open-to-collab"/>
 </p>
 
@@ -83,3 +84,31 @@ Replace gallery images in ./assets/gallery/ with crisp screenshots (1200+ px) of
   <img src="./assets/gallery/gallery-1.png" width="420" style="border-radius:8px; margin:8px; box-shadow:0 8px 24px rgba(2,6,23,0.6)"/>
   <img src="./assets/gallery/gallery-2.png" width="420" style="border-radius:8px; margin:8px; box-shadow:0 8px 24px rgba(2,6,23,0.6)"/>
 </div>
+
+---
+
+## How to make this perfect
+1. Create a repository named exactly: Chinmay-3737
+2. Add these folders/files: assets/, assets/projects/, assets/gallery/, scripts/
+3. Optional: export GITHUB_TOKEN for higher API rate limits.
+4. Run:
+   - npm install (node-fetch etc. for generator)
+   - node scripts/generate-project-cards.js
+5. Replace placeholders in assets/projects/ and assets/gallery/ with your real screenshots (recommended resolution 1200–1600px).
+6. Commit and push — your profile README will render automatically.
+
+---
+
+## Contact
+Email: <a href="mailto:chinmaychaudhari312@gmail.com">chinmaychaudhari312@gmail.com</a>  
+LinkedIn: https://www.linkedin.com/in/chaudhari-chinmay  
+Portfolio: https://chinmay.corvaya.in/
+
+---
+
+If you'd like, I can now:
+- regenerate the header and avatar to match your portfolio color palette,
+- replace the placeholder project/gallery images with annotated screenshots taken from your repos or images you upload,
+- and produce a printable one‑page CV PDF to include in assets/Chinmay_CV.pdf.
+
+Tell me which of those you'd like me to do next and, if you want annotated screenshots, upload 2–4 images or list the project repo names to pull from.
