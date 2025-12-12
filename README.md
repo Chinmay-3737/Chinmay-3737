@@ -1,186 +1,162 @@
-# Chinmay Chaudhari — Data Analyst · UI/UX Designer · Data Engineer 👋
-<img src="./assets/header.svg" alt="Header banner" width="100%"/>
+# Hi there 👋 I'm Chinmay Chaudhari
 
-<p align="center" style="margin-top:-66px">
-  <img src="./assets/avatar.svg" alt="avatar" width="120" style="border-radius:50%; border:4px solid #071523; background:#08121a"/>
-  <br/>
-  <strong style="font-size:18px">Chinmay Chaudhari</strong> · Data Analyst · UI/UX Designer · Data Engineer  
-  <br/>
-  Turning data into insights, designing delightful analytics experiences, and building reliable data pipelines.
-</p>
-
-<p align="center">
-  <a href="mailto:chinmaychaudhari312@gmail.com"><img src="https://img.shields.io/badge/Email-chinmaychaudhari312%40gmail.com-2563eb?style=flat-square&logo=gmail" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/chaudhari-chinmay"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="linkedin"/></a>
-  <a href="https://github.com/Chinmay-3737"><img src="https://img.shields.io/badge/GitHub-@Chinmay--3737-181717?style=flat-square&logo=github" alt="github"/></a>
-  <a href="https://chinmay.corvaya.in/"><img src="https://img.shields.io/badge/Portfolio-Visit-0ea5a3?style=flat-square&logo=googlechrome" alt="portfolio"/></a>
-  <img src="https://img.shields.io/badge/Availability-Open%20to%20collab-10B981?style=flat-square" alt="open-to-collab"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=33D6F0&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst+%7C+UI%2FUX+Designer+%7C+Data+Engineer;Turning+Data+into+Decisions;Building+Analytics+Experiences" alt="Typing SVG" />
+</div>
 
 ---
 
-## One-line
-I combine data engineering reliability, analytics rigor, and human-centered design to deliver actionable dashboards, intuitive analytics UX, and production-ready data pipelines.
+## 🎯 About Me
 
-- Location: India
-- Areas: Data Analysis · Dashboard Design · UX for Analytics · ETL & Orchestration
-- Open to: Collaborations, product-focused roles, freelance contracts
+I'm a **Data Analyst, UI/UX Designer, and Data Engineer** passionate about turning complex data into clear, actionable insights through intuitive design and reliable engineering.  I combine technical depth with user-centered design to build analytics solutions that matter.
+
+- 🔍 **Location**: India
+- 📧 **Email**:  [chinmaychaudhari312@gmail.com](mailto:chinmaychaudhari312@gmail. com)
+- 🔗 **LinkedIn**: [chaudhari-chinmay](https://www.linkedin.com/in/chaudhari-chinmay)
+- 🌐 **Portfolio**: [chinmay.corvaya.in](https://chinmay.corvaya.in)
+- ⭐ **GitHub**: [@Chinmay-3737](https://github.com/Chinmay-3737)
 
 ---
 
-## Neural Profile
-```json
-{
-  "name": "Chinmay Chaudhari",
-  "role": ["Data Analyst", "UI/UX Designer", "Data Engineer"],
-  "location": "India",
-  "mission": "Turn complex data into clear decisions through design and engineering",
-  "status": "Open to collaborations & freelance work"
-}
+## 🛠️ Skills Arsenal
+
+### 📊 Data Analysis & Visualization
+```
+Python      ██████████░░░░░░░░ 95%  |  SQL        ██████████░░░░░░░░ 90%
+Pandas      ██████████░░░░░░░░ 95%  |  Power BI   █████████░░░░░░░░░ 88%
+Tableau     █████████░░░░░░░░░ 85%  |  Looker     ████████░░░░░░░░░░ 82%
+```
+
+### 🔧 Data Engineering & ETL
+```
+Airflow     █████████░░░░░░░░░ 88%  |  dbt        █████████░░░░░░░░░ 85%
+BigQuery    ██████████░░░░░░░░ 90%  |  Apache     ████████░░░░░░░░░░ 80%
+Kafka       █████████░░░░░░░░░ 85%  |  Spark      ████████░░░░░░░░░░ 80%
+```
+
+### 🎨 Design & Frontend
+```
+Figma       ██████████░░░░░░░░ 92%  |  React      ██████████░░░░░░░░ 90%
+TypeScript  █████████░░░░░░░░░ 85%  |  D3.js      █████████░░░░░░░░░ 85%
+Tailwind    ██████████░░░░░░░░ 92%  |  Framer     ████████░░░░░░░░░░ 80%
+```
+
+### ☁️ Cloud & DevOps
+```
+Google Cloud ██████████░░░░░░░░ 92%  |  Docker     ██████████░░░░░░░░ 90%
+Kubernetes   █████████░░░░░░░░░ 88%  |  Terraform  █████████░░░░░░░░░ 85%
+GitHub CI/CD █████████░░░░░░░░░ 88%  |  AWS        █████████░░░░░░░░░ 82%
 ```
 
 ---
 
-## Holographic Tech Matrix
-- Data & Analytics: Python · Pandas · SQL · BigQuery · Looker · Tableau
-- Data Engineering: Airflow · dbt · Spark · BigQuery · GCS · Terraform · Docker
-- Design & Frontend: Figma · React · D3.js · HTML/CSS · Framer Motion
-- Observability & Infra: Grafana · Prometheus · GitHub Actions · Cloud Run
+## 🎯 Tech Stack (Visual)
 
-(Icon badges shown in the assets and README; replace or augment with your preferred stacks.)
-
----
-
-## Quantum Status (Playful Snapshot)
-```js
-const developer = {
-  brain: "Data-first & design-minded",
-  focus: "Building usable analytics products and reliable pipelines",
-  mode: "Research → Prototype → Production",
-  availability: "Open for collaborations",
-  superpower: "Turning messy data into clarity"
-};
-```
-
----
-
-## Featured Projects (image-first)
-The generator script (scripts/generate-project-cards.js) will populate the PROJECT-CARDS block below with your top repos and images. Replace placeholders in assets/projects/ with screenshots of dashboards, pipeline diagrams, or prototypes for the best effect.
-
-<!-- PROJECT-CARDS -->
-<!-- This block is auto-managed by scripts/generate-project-cards.js -->
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="420">
-      <a href="https://github.com/Chinmay-3737/CloudData-Pipelines" target="_blank">
-        <img src="./assets/projects/CloudData-Pipelines.png" alt="CloudData-Pipelines" width="360" style="border-radius:8px; box-shadow:0 8px 30px rgba(2,6,23,0.6)"/>
-      </a>
-      <br/><strong>CloudData‑Pipelines</strong><br/>Airflow · dbt · BigQuery · ETL/ELT
-    </td>
-    <td align="center" width="420">
-      <a href="https://github.com/Chinmay-3737/UX-Analytics-Toolkit" target="_blank">
-        <img src="./assets/projects/UX-Analytics-Toolkit.png" alt="UX-Analytics-Toolkit" width="360" style="border-radius:8px; box-shadow:0 8px 30px rgba(2,6,23,0.6)"/>
-      </a>
-      <br/><strong>UX‑Analytics‑Toolkit</strong><br/>Figma prototypes · event-driven dashboards
-    </td>
-  </tr>
-</table>
+### 🔴 Data Stack
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1F7A5C?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3178C6?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-2B6CFF?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-</div>
-<!-- /PROJECT-CARDS -->
+### 🟠 Engineering Stack
+![Airflow](https://img.shields.io/badge/Airflow-0B5D8C?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF7043?style=for-the-badge&logo=dbt&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-EF6C00?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-5D2B7A?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
----
+### 🟡 Design Stack
+![Figma](https://img.shields.io/badge/Figma-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6? style=for-the-badge&logo=typescript&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F06292?style=for-the-badge&logo=d3dotjs&logoColor=white)
 
-## Quantum Project Dimensions
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h3>Active Experiments</h3>
-        <ul>
-          <li><strong>InteractiveDashboard-Suite</strong> — advanced visualization prototypes (D3, React)</li>
-          <li><strong>DataQuality-Toolkit</strong> — schema checks & anomaly detection</li>
-        </ul>
-        <pre style="background:#0b1320; color:#9fe6ff; padding:12px; border-radius:6px">Type: "Experimentation & Prototyping"
-Status: "User testing / Iteration"
-Stack: ["Python","Pandas","D3.js","React"]</pre>
-      </td>
-      <td width="50%" valign="top">
-        <h3>Deployed Solutions</h3>
-        <ul>
-          <li><strong>CloudData‑Pipelines</strong> — production ETL/ELT on BigQuery</li>
-          <li><strong>UX‑Analytics‑Toolkit</strong> — deployed prototypes for stakeholder research</li>
-        </ul>
-        <pre style="background:#0b1320; color:#b8ffb4; padding:12px; border-radius:6px">Type: "Production Data Workflows"
-Status: "Production"
-Stack: ["Airflow","dbt","BigQuery","GCS"]</pre>
-      </td>
-    </tr>
-  </table>
+### 🟢 Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4? style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B61FF?style=for-the-badge&logo=terraform&logoColor=white)
+
 </div>
 
 ---
 
-## Holographic Data Visualization
-Below are dynamic placeholders — replace assets/visuals/holographic-visualization.png and assets/visuals/activity-matrix.png with your annotated graphs or screenshots of dashboards.
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="./assets/visuals/holographic-visualization.png" alt="Holographic visualization" width="800" style="border-radius:8px; box-shadow:0 8px 30px rgba(2,6,23,0.6)"/>
-</p>
-
-<p align="center">
-  <img src="./assets/visuals/activity-matrix.png" alt="Activity matrix" width="800" style="border-radius:8px; box-shadow:0 8px 30px rgba(2,6,23,0.6)"/>
-</p>
-
----
-
-## Achievement Constellation
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="60%" valign="top">
-        <h3>Neural Milestones</h3>
-        <ul>
-          <li>🚀 15+ Dashboards shipped to stakeholders</li>
-          <li>🛠️ Data platforms powering daily analytics for product teams</li>
-          <li>📈 Model performance improved by 40% through feature engineering</li>
-          <li>🤝 40+ Open source contributions and shared visualization components</li>
-          <li>🏆 Hackathon winner & design sprint runner-up</li>
-        </ul>
-      </td>
-      <td width="40%" valign="top">
-        <h3>Innovation Matrix</h3>
-        <img src="./assets/visuals/innovation-matrix.png" alt="Innovation matrix" width="320" style="border-radius:6px; box-shadow:0 6px 18px rgba(2,6,23,0.6)"/>
-      </td>
-    </tr>
-  </table>
+
+![GitHub Stats](https://github-readme-stats.vercel. app/api?username=Chinmay-3737&show_icons=true&theme=dark&hide_rank=true&bg_color=0f1a23&text_color=d8f6ff&title_color=33d6f0&icon_color=33d6f0)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay-3737&layout=compact&theme=dark&bg_color=0f1a23&text_color=d8f6ff&title_color=33d6f0)
+
 </div>
 
 ---
 
-## Skill Progression Matrix
-Programming & Tools (visual bars below). These bars are SVGs located in assets/skill-bars.svg — edit the SVG to tweak percentages and colors to match your brand.
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="./assets/skill-bars.svg" alt="Skill bars" width="920" style="border-radius:6px; box-shadow:0 8px 24px rgba(2,6,23,0.6)"/>
-</p>
+### CloudData-Pipelines
+> Production-grade data pipeline architecture using Airflow, dbt, and BigQuery
+- **Tech Stack**: Python, Airflow, dbt, BigQuery, GCS, Terraform
+- **Highlights**: Automated ETL, data quality checks, scalable cloud infrastructure
+- ⭐ [View Repository](https://github.com/Chinmay-3737/CloudData-Pipelines)
+
+### UX-Analytics-Toolkit
+> Design-first approach to analytics dashboards with interactive prototypes
+- **Tech Stack**: React, D3.js, Figma, TypeScript, Tailwind CSS
+- **Highlights**: User-tested interfaces, advanced visualizations, component library
+- ⭐ [View Repository](https://github.com/Chinmay-3737/UX-Analytics-Toolkit)
+
+### InteractiveDashboard-Suite
+> Next-gen data visualization platform with real-time collaboration
+- **Tech Stack**: React, D3.js, WebSocket, PostgreSQL, Docker
+- **Highlights**: Live dashboards, user research integration, accessibility-first
+- ⭐ [View Repository](https://github.com/Chinmay-3737)
 
 ---
 
-## Live GitHub Metrics
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Chinmay-3737&show_icons=true&theme=dark&hide_rank=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay-3737&layout=compact&theme=dark" />
-</p>
+## 📈 Current Focus
+
+- 🔍 Building scalable data pipelines with Airflow & Kubernetes
+- 🎨 Designing intuitive analytics experiences using Figma + React
+- 📊 Optimizing data models with dbt for faster insights
+- ☁️ Deploying ML-ready infrastructure on Google Cloud
+- 🤝 Contributing to open-source data & analytics tools
 
 ---
 
-## Gallery
-Replace gallery images in ./assets/gallery/ with project screenshots, prototypes, or pipeline diagrams (1200–1600px recommended).
+## 🎓 Learning & Development
+
+Currently diving deep into:
+- Advanced ML Ops & data governance
+- Real-time analytics architectures
+- Design systems for data products
+- Kubernetes & container orchestration
+
+---
+
+## 💡 What I'm Looking For
+
+- 🚀 **Product-focused data roles** where analytics directly impacts users
+- 🤝 **Collaborations** on open-source analytics or data engineering projects
+- 📚 **Mentoring opportunities** to help others learn data design & engineering
+- 💼 **Freelance projects** involving dashboards, pipelines, or data architecture
+
+---
+
+## 📬 Get in Touch
 
 <div align="center">
-  <img src="./assets/gallery/gallery-1.png" width="420" style="border-radius:8px; margin:8px; box-shadow:0 8px 24px rgba(2,6,23,0.6)"/>
-  <img src="./assets/gallery/gallery-2.png" width="420" style="border-radius:8px; margin:8px; box-shadow:0 8px 24px rgba(2,6,23,0.6)"/>
+
+[📧 Email](mailto:chinmaychaudhari312@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/chaudhari-chinmay) | [🌐 Portfolio](https://chinmay.corvaya.in) | [💻 GitHub](https://github.com/Chinmay-3737)
+
+**Let's build something amazing together!** 🚀
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ by <a href="https://github.com/Chinmay-3737">Chinmay Chaudhari</a></sub>
 </div>
