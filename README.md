@@ -1,21 +1,33 @@
-# Hi there 👋, I'm Chinmay Chaudhari
+<p align="center">
+  <img src="https://via.placeholder.com/800x200/1E90FF/FFFFFF?text=CHINMAY+CHAUDHARI" alt="Chinmay Chaudhari" />
+</p>
 
-### 💻 About Me
-- Final-year B.Tech student specializing in AI & Data Science
-- Passionate about **UI/UX Design, Full-Stack Development, Data Analytics**
-- Currently building projects using **React, Node.js, Power BI, Figma**
+<h3 align="center">
+  AI/ML Engineer | Full Stack Developer | Data Enthusiast
+</h3>
 
-### 🛠️ Skills
-- **Languages:** Python, JavaScript, SQL, HTML, CSS  
-- **Frameworks:** React.js, Node.js, React Native  
-- **Tools:** Power BI, Tableau, Figma, GitHub, AWS
+<p align="center">
+  ✨ Crafting Intelligent Solutions  <br>
+  🌐 Building Interactive Web Applications  <br>
+  ☁️ Orchestrating Cloud Solutions
+</p>
 
-### 📊 GitHub Stats
-![Chinmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chinmay-3737&show_icons=true&theme=dark)
+---
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chaudhari-chinmay/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?style=for-the-badge&logo=ko-fi)](https://chinmay.corvaya.in)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🧠 Neural Profile
+| Key | Details |
+|-----|---------|
+| Name | Chinmay Chaudhari |
+| Role | AI Engineer, Full Stack Developer, Data Analyst |
+| Location | Pune, India |
+| Mission | "Turning ideas into practical solutions" |
+| Status | "Actively coding the future" |
 
+---
+
+### 📊 Quantum Metrics
+| Metric | Value |
+|--------|-------|
+| Followers | 0 |
+| GitHub Stars | 3 |
+| Total Commits | 1200+ |
