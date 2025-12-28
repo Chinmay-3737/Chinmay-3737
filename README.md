@@ -22,21 +22,21 @@ I'm a **Data Analyst, UI/UX Designer, and Data Engineer** passionate about turni
 
 ### 📊 Data Analysis & Visualization
 ```
-Python      ██████████░░░░░░░░ 95%  |  SQL        ██████████░░░░░░░░ 90%
-Pandas      ██████████░░░░░░░░ 95%  |  Power BI   █████████░░░░░░░░░ 88%
-Tableau     █████████░░░░░░░░░ 85%  |  Looker     ████████░░░░░░░░░░ 82%
+Python      ██████████░░░░░░░░ 90%  |  SQL        ██████████░░░░░░░░ 75%
+Pandas      ██████████░░░░░░░░ 85%  |  Power BI   █████████░░░░░░░░░ 88%
+Tableau     █████████░░░░░░░░░ 80%  | 
 ```
 
 ### 🔧 Data Engineering & ETL
 ```
 Airflow     █████████░░░░░░░░░ 88%  |  dbt        █████████░░░░░░░░░ 85%
-BigQuery    ██████████░░░░░░░░ 90%  |  Apache     ████████░░░░░░░░░░ 80%
-Kafka       █████████░░░░░░░░░ 85%  |  Spark      ████████░░░░░░░░░░ 80%
+BigQuery    ██████████░░░░░░░░ 90%  |  
+Kafka       █████████░░░░░░░░░ 85%  |  
 ```
 
 ### 🎨 Design & Frontend
 ```
-Figma       ██████████░░░░░░░░ 92%  |  React      ██████████░░░░░░░░ 90%
+Figma       ██████████░░░░░░░░ 95%  |  React      ██████████░░░░░░░░ 90%
 TypeScript  █████████░░░░░░░░░ 85%  |  D3.js      █████████░░░░░░░░░ 85%
 Tailwind    ██████████░░░░░░░░ 92%  |  Framer     ████████░░░░░░░░░░ 80%
 ```
@@ -44,8 +44,7 @@ Tailwind    ██████████░░░░░░░░ 92%  |  Frame
 ### ☁️ Cloud & DevOps
 ```
 Google Cloud ██████████░░░░░░░░ 92%  |  Docker     ██████████░░░░░░░░ 90%
-Kubernetes   █████████░░░░░░░░░ 88%  |  Terraform  █████████░░░░░░░░░ 85%
-GitHub CI/CD █████████░░░░░░░░░ 88%  |  AWS        █████████░░░░░░░░░ 82%
+GitHub CI/CD █████████░░░░░░░░░ 88%  |  Terraform  █████████░░░░░░░░░ 85% 
 ```
 
 ---
@@ -84,6 +83,21 @@ GitHub CI/CD █████████░░░░░░░░░ 88%  |  AWS 
 
 ## 🚀 Featured Projects
 
+### Vyronex Motors
+<div style="background: #0f1a23; padding: 16px; border-radius: 8px; border-left: 4px solid #10b981; margin: 16px 0;">
+
+**Type:** High-Performance Automotive Showcase  
+**Status:** 🏎️ Live & Performance-Optimized  
+**Stack:** React · Tailwind CSS · Framer Motion · Vite  
+**Impact:** Immersive Brand Experience  
+
+A premium digital showroom for high-performance motors. This project focuses on high-fidelity visual storytelling, using advanced scroll-triggered animations and a sleek, "dark-mode" aesthetic to mirror the engineering excellence of the brand.
+
+[🔗 View Repository](https://github.com/Chinmay-3737/Vyronex-Motors) | [🌐 Live Demo](https://vyronex-motors-kzee.vercel.app/)
+
+</div>
+
+
 ### InteractivePortfolio
 <div style="background: #0f1a23; padding: 16px; border-radius: 8px; border-left: 4px solid #33d6f0; margin:  16px 0;">
 
@@ -116,6 +130,20 @@ A modern coffee shop ordering and management platform with real-time order track
 - 💳 Payment integration ready
 
 [🔗 View Repository](https://github.com/Chinmay-3737/CoffeeShop) | [🌐 Live Demo](#)
+
+</div>
+
+### 🪔 Diwali Sales Analysis
+<div style="background: #0f1a23; padding: 16px; border-radius: 8px; border-left: 4px solid #a855f7; margin: 16px 0;">
+
+**Type:** Exploratory Data Analysis (EDA)  
+**Status:** ✅ Insights Delivered  
+**Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn  
+**Impact:** Optimization of Festive Inventory & Marketing  
+
+Comprehensive analysis of Diwali sales data to identify customer purchasing behavior across different demographics (age, gender, state, and occupation). This project uncovers the most profitable product categories and regions to drive data-backed business decisions for future sale events.
+
+[🔗 View Repository](https://github.com/Chinmay-3737/Diwali_Sales_Analysis) | [📊 Data Source](https://github.com/Chinmay-3737/Diwali_Sales_Analysis/blob/main/Diwali%20Sales%20Data%20(1).csv)
 
 </div>
 
