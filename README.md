@@ -53,23 +53,33 @@ GitHub CI/CD █████████░░░░░░░░░ 88%  |  Terr
 
 <div align="center">
 
-### 🔴 Data Stack
+### 🔴 Data Analysis Stack
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-1F7A5C?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-3178C6?style=for-the-badge&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-2B6CFF?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 🟠 Engineering Stack
-![Airflow](https://img.shields.io/badge/Airflow-0B5D8C?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF7043?style=for-the-badge&logo=dbt&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-EF6C00?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-5D2B7A?style=for-the-badge&logo=apache-kafka&logoColor=white)
+### 🟠 Visualization & BI Stack
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3E7BB6?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2196F3?style=for-the-badge)
 
-### 🟡 Design Stack
-![Figma](https://img.shields.io/badge/Figma-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6? style=for-the-badge&logo=typescript&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F06292?style=for-the-badge&logo=d3dotjs&logoColor=white)
+### 🟡 Analytics Design Stack
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-4CAF50?style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-4CAF50?style=for-the-badge)
+![Presentation Design](https://img.shields.io/badge/Presentation%20Design-9C27B0?style=for-the-badge)
+
+## 🔗 Connect Across Dimensions
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaudhari-chinmay/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chinmay-3737)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge)](https://[yourportfolio.com](https://chinmay.corvaya.in/))
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmaychaudhari312@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 </div>
 
@@ -181,12 +191,12 @@ Currently strengthening skills in:
 
 ## 💡 What I'm Looking For
 
-🚀 Data Analyst / Business Analyst roles where insights directly influence business decisions
-📊 Projects involving dashboarding, reporting, and performance analysis
-🤝 Collaboration with cross-functional teams (product, marketing, operations)
-📚 Opportunities to grow in analytics, visualization, and business intelligence
-💼 Freelance or internship projects involving data analysis, reporting, or dashboards
-📈 Data-driven teams across diverse industries and business functions
+- 🚀 Data Analyst / Business Analyst roles where insights directly influence business decisions
+- 📊 Projects involving dashboarding, reporting, and performance analysis
+- 🤝 Collaboration with cross-functional teams (product, marketing, operations)
+- 📚 Opportunities to grow in analytics, visualization, and business intelligence
+- 💼 Freelance or internship projects involving data analysis, reporting, or dashboards
+- 📈 Data-driven teams across diverse industries and business functions
 
 ---
 
