@@ -71,12 +71,6 @@ GitHub CI/CD █████████░░░░░░░░░ 88%  |  Terr
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6? style=for-the-badge&logo=typescript&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F06292?style=for-the-badge&logo=d3dotjs&logoColor=white)
 
-### 🟢 Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B61FF?style=for-the-badge&logo=terraform&logoColor=white)
-
 </div>
 
 ---
@@ -163,33 +157,36 @@ Comprehensive analysis of Diwali sales data to identify customer purchasing beha
 
 ## 📈 Current Focus
 
-- 🔍 Building scalable data pipelines with Airflow & Kubernetes
-- 🎨 Designing intuitive analytics experiences using Figma + React
-- 📊 Optimizing data models with dbt for faster insights
-- ☁️ Deploying ML-ready infrastructure on Google Cloud
-- 🤝 Contributing to open-source data & analytics tools
-- ☕ Expanding CoffeeShop platform with AI-driven recommendations
+🔍 Analyzing complex datasets to uncover actionable business insights
+📊 Building interactive dashboards and reports using Power BI / Tableau / Excel
+📈 Performing exploratory data analysis (EDA) and statistical analysis to identify trends and patterns
+🧹 Cleaning, transforming, and validating data for accuracy and consistency
+🗄️ Writing optimized SQL queries for data extraction and reporting
+📉 Monitoring KPIs and business metrics to support data-driven decision-making
 
 ---
 
 ## 🎓 Learning & Development
 
-Currently diving deep into:
-- Advanced ML Ops & data governance
-- Real-time analytics architectures
-- Design systems for data products
-- Kubernetes & container orchestration
-- Full-stack web application development
+Currently strengthening skills in:
+
+Advanced SQL for analytics and performance optimization
+Data visualization best practices and storytelling with data
+Statistical analysis & hypothesis testing
+Business analytics and KPI design
+Python for data analysis (Pandas, NumPy, Matplotlib, Seaborn)
+Excel advanced functions, pivot tables, and automation
 
 ---
 
 ## 💡 What I'm Looking For
 
-- 🚀 **Product-focused data roles** where analytics directly impacts users
-- 🤝 **Collaborations** on open-source analytics or data engineering projects
-- 📚 **Mentoring opportunities** to help others learn data design & engineering
-- 💼 **Freelance projects** involving dashboards, pipelines, or full-stack applications
-- ☕ **Startups or side projects** in fintech, e-commerce, or food-tech
+🚀 Data Analyst / Business Analyst roles where insights directly influence business decisions
+📊 Projects involving dashboarding, reporting, and performance analysis
+🤝 Collaboration with cross-functional teams (product, marketing, operations)
+📚 Opportunities to grow in analytics, visualization, and business intelligence
+💼 Freelance or internship projects involving data analysis, reporting, or dashboards
+📈 Data-driven teams across diverse industries and business functions
 
 ---
 
