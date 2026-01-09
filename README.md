@@ -22,29 +22,31 @@ I'm a **Data Analyst, UI/UX Designer, and Data Engineer** passionate about turni
 
 ### 📊 Data Analysis & Visualization
 ```
-Python      ██████████░░░░░░░░ 90%  |  SQL        ██████████░░░░░░░░ 75%
-Pandas      ██████████░░░░░░░░ 85%  |  Power BI   █████████░░░░░░░░░ 88%
-Tableau     █████████░░░░░░░░░ 80%  | 
+Python        ██████████░░░░░░░░ 75%  |  SQL           █████████░░░░░░░░░ 70%
+Pandas        █████████░░░░░░░░░ 88%  |  Power BI      ██████████░░░░░░░░ 90%
+NumPy         █████████░░░░░░░░░ 85%  |  Tableau       █████████░░░░░░░░░ 75%
+Excel         ██████████░░░░░░░░ 92%  |  
+
 ```
 
-### 🔧 Data Engineering & ETL
+### 🔧 Business Intelligence & Reporting
 ```
-Airflow     █████████░░░░░░░░░ 88%  |  dbt        █████████░░░░░░░░░ 85%
-BigQuery    ██████████░░░░░░░░ 90%  |  
-Kafka       █████████░░░░░░░░░ 85%  |  
+Dashboarding  ██████████░░░░░░░░ 90%  |  KPI Analysis  █████████░░░░░░░░░ 85%
+Data Modeling █████████░░░░░░░░░ 82%  |  Reporting     █████████░░░░░░░░░ 88%
 ```
 
 ### 🎨 Design & Frontend
 ```
-Figma       ██████████░░░░░░░░ 95%  |  React      ██████████░░░░░░░░ 90%
-TypeScript  █████████░░░░░░░░░ 85%  |  D3.js      █████████░░░░░░░░░ 85%
-Tailwind    ██████████░░░░░░░░ 92%  |  Framer     ████████░░░░░░░░░░ 80%
+Figma       ██████████░░░░░░░░ 95%  |  React      ██████████░░░░░░░░ 75%
+TypeScript  █████████░░░░░░░░░ 70%  |  Canva      ██████████░░░░░░░░ 95%
+Tailwind    ██████████░░░░░░░░ 70%  |  Framer     ████████░░░░░░░░░░ 70%
 ```
 
-### ☁️ Cloud & DevOps
+### 🧹 Data Preparation & Analytics Techniques
 ```
-Google Cloud ██████████░░░░░░░░ 92%  |  Docker     ██████████░░░░░░░░ 90%
-GitHub CI/CD █████████░░░░░░░░░ 88%  |  Terraform  █████████░░░░░░░░░ 85% 
+Data Cleaning ██████████░░░░░░░░ 92%  |  EDA           █████████░░░░░░░░░ 88%
+Statistics    ████████░░░░░░░░░░ 80%  |  Trend Analysis█████████░░░░░░░░░ 85%
+
 ```
 
 ---
@@ -77,7 +79,7 @@ GitHub CI/CD █████████░░░░░░░░░ 88%  |  Terr
 ## 🔗 Connect Across Dimensions
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaudhari-chinmay/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chinmay-3737)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge)](https://[chinmay.corvaya.in])
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge)](https://chinmay.corvaya.in/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmaychaudhari312@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
@@ -148,18 +150,6 @@ A modern coffee shop ordering and management platform with real-time order track
 Comprehensive analysis of Diwali sales data to identify customer purchasing behavior across different demographics (age, gender, state, and occupation). This project uncovers the most profitable product categories and regions to drive data-backed business decisions for future sale events.
 
 [🔗 View Repository](https://github.com/Chinmay-3737/Diwali_Sales_Analysis) | [📊 Data Source](https://github.com/Chinmay-3737/Diwali_Sales_Analysis/blob/main/Diwali%20Sales%20Data%20(1).csv)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel. app/api?username=Chinmay-3737&show_icons=true&theme=dark&hide_rank=true&bg_color=0f1a23&text_color=d8f6ff&title_color=33d6f0&icon_color=33d6f0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay-3737&layout=compact&theme=dark&bg_color=0f1a23&text_color=d8f6ff&title_color=33d6f0)
 
 </div>
 
