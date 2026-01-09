@@ -157,12 +157,12 @@ Comprehensive analysis of Diwali sales data to identify customer purchasing beha
 
 ## 📈 Current Focus
 
- - 🔍 Analyzing complex datasets to uncover actionable business insights
- - 📊 Building interactive dashboards and reports using Power BI / Tableau / Excel
- - 📈 Performing exploratory data analysis (EDA) and statistical analysis to identify trends and patterns
- - 🧹 Cleaning, transforming, and validating data for accuracy and consistency
- - 🗄️ Writing optimized SQL queries for data extraction and reporting
- - 📉 Monitoring KPIs and business metrics to support data-driven decision-making
+- 🔍 Analyzing complex datasets to uncover actionable business insights
+- 📊 Building interactive dashboards and reports using Power BI / Tableau / Excel
+- 📈 Performing exploratory data analysis (EDA) and statistical analysis to identify trends and patterns
+- 🧹 Cleaning, transforming, and validating data for accuracy and consistency
+- 🗄️ Writing optimized SQL queries for data extraction and reporting
+- 📉 Monitoring KPIs and business metrics to support data-driven decision-making
 
 ---
 
