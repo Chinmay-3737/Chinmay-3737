@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Chinmay Chaudhari
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=33D6F0&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst+%7C+UI%2FUX+Designer+%7C+Data+Engineer;Turning+Data+into+Decisions;Building+Analytics+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=33D6F0&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst+%7C+Data+Engineer;Turning+Data+into+Decisions;Building+Analytics+Experiences" alt="Typing SVG" />
 </div>
 
 ---
