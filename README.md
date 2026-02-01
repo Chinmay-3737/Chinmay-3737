@@ -8,7 +8,7 @@
 
 ## 🎯 About Me
 
-I'm a **Data Analyst, UI/UX Designer, and Data Engineer** passionate about turning complex data into clear, actionable insights through intuitive design and reliable engineering.  I combine technical depth with user-centered design to build analytics solutions that matter.
+I'm a **Data Analyst** passionate about turning complex data into clear, actionable insights through intuitive design and reliable engineering.  I combine technical depth with user-centered design to build analytics solutions that matter.
 
 - 🔍 **Location**: India
 - 📧 **Email**:  [chinmaychaudhari312@gmail.com](mailto:chinmaychaudhari312@gmail.com)
