@@ -104,11 +104,29 @@ A premium digital showroom for high-performance motors. This project focuses on 
 </div>
 
 
+### FlaskPortfolio
+<div style="background: #0f1a23; padding: 16px; border-radius: 8px; border-left: 4px solid #33d6f0; margin: 16px 0;">
+
+**Type:**  Web Application & Portfolio
+
+**Status:** ✅ Production Ready
+
+**Stack:** Python · Flask · HTML · CSS 
+
+**Impact:** Seamless Deployment Architecture
+
+A clean, Python-based web application structured for high efficiency and smooth deployment. This project utilizes the Flask framework to serve dynamic content with a backend-driven approach, featuring a dedicated structure for templates and static assets.
+
+[🔗 View Repository](https://github.com/Chinmay-3737/flask-portfolio) | [🌐 Live Demo](https://chinmay-chaudhari.vercel.app/)
+
+</div>
+
+
 ### InteractivePortfolio
 <div style="background: #0f1a23; padding: 16px; border-radius: 8px; border-left: 4px solid #33d6f0; margin:  16px 0;">
 
 **Type:** Animated Portfolio Platform  
-**Status:** 🌟 Live & Interactive  
+**Status:**  🌟 Live & Interactive  
 **Stack:** React · Framer Motion · GSAP · TypeScript · Tailwind CSS  
 **Impact:** Award-Winning Design  
 
